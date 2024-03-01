@@ -1,0 +1,60 @@
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.exe
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.deps.json
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.runtimeconfig.json
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.pdb
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\System.CommandLine.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.AssemblyInfo.cs
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.csproj.CopyComplete
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\refint\fib.dll
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.pdb
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.genruntimeconfig.cache
+D:\Users\User\Desktop\efratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\ref\fib.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.exe
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.deps.json
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.runtimeconfig.json
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fib.pdb
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\System.CommandLine.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.AssemblyInfo.cs
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.csproj.CopyComplete
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\refint\fib.dll
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.pdb
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\fib.genruntimeconfig.cache
+D:\Users\User\Desktop\COMPUTER_POROGRAM\שנה ב\פרקטיקוד\פרקטיקוד1\EfratBatyaPraktiCode1\efratBatyaPraktiCode1\obj\Debug\net6.0\ref\fib.dll
